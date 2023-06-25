@@ -25,3 +25,16 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+.sectionA {
+  background-color: #FF0000; /* Color para la sección A */
+  height: 50vh;
+}
+
+.sectionB {
+  background-color: #00FF00; /* Color para la sección B */
+  height: 50vh;
+}
+
+.centered-heading {
+  text-align: center;
+}
